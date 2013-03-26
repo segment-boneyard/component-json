@@ -1,0 +1,23 @@
+{
+  "name": "component-json",
+  "version": "0.0.1",
+  "description": "A plugin to convert JSON files for the component builder.",
+  "keywords": [
+    "component",
+    "jade"
+  ],
+  "author": "Segment.io <friends@segment.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/component-json.git"
+  },
+  "dependencies": {
+    "debug": "0.7.2",
+    "jade": "0.28.1"
+  },
+  "devDependencies" : {
+    "component-builder" : "git://github.com/calvinfo/builder.js.git#conf-race"
+  },
+  "main": "index.js"
+}

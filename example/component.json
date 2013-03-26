@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "scripts": [
+    "index.js"
+  ],
+  "files": [
+    "data.json"
+  ],
+  "main": "index.js"
+}
