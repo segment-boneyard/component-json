@@ -13,11 +13,10 @@
     "url": "git://github.com/segmentio/component-json.git"
   },
   "dependencies": {
-    "debug": "0.7.2",
-    "jade": "0.28.1"
+    "debug": "0.7.2"
   },
   "devDependencies" : {
-    "component-builder" : "git://github.com/calvinfo/builder.js.git#conf-race"
+    "component-builder": "git://github.com/calvinfo/builder.js.git#conf-race"
   },
   "main": "index.js"
 }

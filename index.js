@@ -1,5 +1,4 @@
 var fs     = require('fs')
-  , jade   = require('jade')
   , path   = require('path')
   , debug  = require('debug')('component-json');
 
