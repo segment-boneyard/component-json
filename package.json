@@ -4,7 +4,8 @@
   "description": "A plugin to convert JSON files for the component builder.",
   "keywords": [
     "component",
-    "jade"
+    "builder",
+    "json"
   ],
   "author": "Segment.io <friends@segment.io>",
   "license": "MIT",
