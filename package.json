@@ -17,7 +17,7 @@
     "debug": "0.7.2"
   },
   "devDependencies" : {
-    "component-builder": "git://github.com/calvinfo/builder.js.git#conf-race"
+    "component-builder": "0.8.2"
   },
   "main": "index.js"
 }
