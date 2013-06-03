@@ -19,8 +19,8 @@ module.exports = function (builder) {
 
 function convertJSON (pkg, callback) {
   // Grab our JSON files.
-  if (!pkg.conf.files) return callback();
-  var files = pkg.conf.files.filter(filterJSON);
+  if (!pkg.config.files) return callback();
+  var files = pkg.config.files.filter(filterJSON);
 
   files.forEach(function (file) {
     debug('compiling: %s', file);

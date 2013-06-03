@@ -2,4 +2,7 @@
 example:
 	node example/builder
 
-.PHONY: example
+clean:
+	rm example/build.js
+
+.PHONY: example clean
